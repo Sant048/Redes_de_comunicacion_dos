@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "6799aba388b4537e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c2b434ee836001c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbde18a1ccb0c3eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecturas/Brief History of the Internet/Summary/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "2981c6e04a60b3db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecturas/Brief History of the Internet/Summary/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3444a6be323b4220",
+    "type": "split",
+    "children": [
+      {
+        "id": "613a1473eb48740a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8c4d6e462eea9be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "917a134b475828e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bd7ec703965866dd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58d704f02b0c98e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc26c81d9b5ce9db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cefebf967c20ea2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lecturas/Brief History of the Internet/Summary of Brief History of the Internet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Summary of Brief History of the Internet"
+            }
+          },
+          {
+            "id": "697f829f1412c97b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lecturas/Brief History of the Internet/Summary of Brief History of the Internet.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Summary of Brief History of the Internet"
+            }
+          },
+          {
+            "id": "0623385e30eb0683",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "903d49aa49c1ff06",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ef9b90146688ab3a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lecturas/Brief History of the Internet/Summary of Brief History of the Internet.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Summary of Brief History of the Internet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2981c6e04a60b3db",
+  "lastOpenFiles": [
+    "Lecturas/Brief History of the Internet/Summary/Transition to Widespread Infrastructure.md",
+    "Imagenes/Pasted image 20260203224406.png",
+    "Lecturas/Brief History of the Internet/Brief_History_of_the_Internet.pdf",
+    "Untitled.md",
+    "Imagenes",
+    "Lecturas/Brief History of the Internet/Summary/Introduction.md",
+    "Lecturas/Brief History of the Internet/Summary/History of the Future.md",
+    "Lecturas/Brief History of the Internet/Summary/Commercialization of the Technology.md",
+    "Lecturas/Brief History of the Internet/Summary/The Role of Documentation.md",
+    "Lecturas/Brief History of the Internet/Summary/Proving the Ideas.md",
+    "Lecturas/Brief History of the Internet/Summary/The Initial Internetting Concepts.md",
+    "Lecturas/Brief History of the Internet/Summary/Origins of the Internet.md",
+    "README.md",
+    "2026-02-03.md",
+    "Lecturas/Brief History of the Internet/Summary",
+    "Lecturas/Brief History of the Internet",
+    "Lecturas"
+  ]
+}
