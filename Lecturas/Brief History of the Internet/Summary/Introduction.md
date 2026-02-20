@@ -4,7 +4,6 @@ The Internet is a multi-dimensional platform characterized by three primary role
 * **Global Broadcasting:** A pervasive capability for wide-scale transmission.
 * **Information Dissemination:** An efficient mechanism for sharing knowledge.
 * **Collaboration Medium:** A space for interaction between humans and machines, transcending all geographic barriers.
-
 ## 2. The Four Pillars of Internet History
 The evolution of the Internet is built upon four distinct aspects:
 
@@ -22,7 +21,6 @@ The Internet's success stems from a sustained commitment to research and develop
 3. **Academia**
 
 This collaboration has moved the technology from niche laboratories to everyday life, where digital identifiers like email addresses (`bleiner@computer.org`) and URLs (`http://www.acm.org`) are now common household terms.
-
 ## 4. Societal Impact & Future
 Currently acting as the prototype for the **Global (or Galactic) Information Infrastructure**, the Internet's influence is pervasive:
 - **Commerce:** The engine of modern electronic trade.
